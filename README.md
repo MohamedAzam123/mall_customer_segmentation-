@@ -3,7 +3,7 @@
 This project is an end-to-end Machine Learning application that segments mall customers into different groups based on their demographics and spending patterns. It includes the entire pipeline from data analysis to a live web application.
 
 ## 🚀 Live Demo
-[Add your Streamlit Cloud link here]
+[https://fehfwcn4vgwxd7x7xdxsfr.streamlit.app/]
 
 ## 📊 Project Overview
 The goal of this project is to help a retail store understand its customers better to design targeted marketing strategies. We used the **K-Means Clustering** algorithm to group customers based on:
