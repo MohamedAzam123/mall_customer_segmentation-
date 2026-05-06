@@ -39,3 +39,10 @@ The goal of this project is to help a retail store understand its customers bett
    ```bash
    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
    cd your-repo-name
+   
+2. **Install dependencies:**
+   pip install -r requirements.txt
+   
+3. **Launch the app:**
+   streamlit run cluster_web.py   
+   
